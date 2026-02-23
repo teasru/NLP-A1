@@ -1,0 +1,89 @@
+32.7 % of all households were made up of individuals and 15.7 % had someone living alone who was 65 years of age or older .	1.00	32	made	were	[CLS]	.
+A cafeteria is also located on the sixth floor , a chapel on the 14th floor , and a study hall on the 15th floor .	1.00	A	.	floor	[CLS]	None
+A cafeteria is also located on the sixth floor , a chapel on the 14th floor , and a study hall on the 15th floor .	1.00	[PAD]	[SEP]	[PAD]	None	None
+A short distance to the east , NC 111 diverges on Greenwood Boulevard .	1.00	A	the	to	None	None
+As in his first novel , Armah contrasts the two worlds of materialism and moral values , corruption and dreams , two worlds of integrity and social pressure .	1.00	As	.	pressure	[CLS]	None
+As in his first novel , Armah contrasts the two worlds of materialism and moral values , corruption and dreams , two worlds of integrity and social pressure .	1.00	[PAD]	[SEP]	[PAD]	None	None
+At no cost to the parents , these services are provided in compliance with state and federal law ; and are reasonably calculated to yield meaningful educational benefit and student progress .	1.00	At	[PAD]	[PAD]	[CLS]	None
+Because of Muhammad 's role in its formation , the alliance plays a significant role in Islamic ethics .	1.00	Because	.	ethics	[CLS]	None
+Because of Muhammad 's role in its formation , the alliance plays a significant role in Islamic ethics .	1.00	[PAD]	[SEP]	[PAD]	None	None
+Bruce 's Justice Lord counterpart was happily married to Wonder Woman as well until her Justice Lord counterpart killed him .	1.00	[PAD]	[SEP]	[PAD]	[CLS]	None
+From 1909 to 1912 , the Miami Canal was dug , bypassing the rapids at the head of the North Fork .	1.00	From	##s	rapid	[CLS]	None
+He is idolized , receiving the name of `` God '' .	1.00	[PAD]	[SEP]	[PAD]	[CLS]	None
+In Canada , there are two organizations that regulate university and collegiate athletics .	1.00	[PAD]	[SEP]	[PAD]	[CLS]	None
+In French , `` droit '' can mean `` the whole body of the Law '' , as in the motto `` dieu et mon droit , '' which is to say `` God and my whole body of Law . ''	1.00	`	to	is	None	None
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	Department	Chief	the	None	None
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	[PAD]	[PAD]	[PAD]	None	[SEP]
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	[PAD]	[PAD]	[PAD]	None	None
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	[PAD]	[PAD]	[PAD]	None	None
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	[PAD]	[PAD]	[PAD]	None	None
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	[PAD]	[PAD]	[PAD]	None	None
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	[PAD]	[PAD]	[PAD]	[PAD]	None
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	[PAD]	[PAD]	[PAD]	None	None
+In September 1941 , she joined the Women 's Auxiliary Air Force , working at the Department of the Chief of Air Staff as Assistant Section Officer for Intelligence duties , before being posted in July 1942 to Moreton-in-Marsh , where she was promoted to Section officer .	1.00	[PAD]	[PAD]	[PAD]	None	None
+In a typical case of substrate interference , a Language A occupies a given territory and another Language B arrives in the same territory .	1.00	In	.	territory	[CLS]	None
+In a typical case of substrate interference , a Language A occupies a given territory and another Language B arrives in the same territory .	1.00	[PAD]	[SEP]	[PAD]	None	None
+In athletics , Boston College left the Big East Conference and joined the Atlantic Coast Conference on July 1 , 2005 .	1.00	In	.	2005	[CLS]	None
+In athletics , Boston College left the Big East Conference and joined the Atlantic Coast Conference on July 1 , 2005 .	1.00	[PAD]	[SEP]	[PAD]	None	None
+In the north and east inhabitants speak Bumthangkha , and in the extreme southeast Khengkha is spoken .	1.00	[PAD]	[SEP]	[PAD]	In	None
+In this explanation the purpose of Creation is that `` God desired a dwelling place in the lower realms '' - it is man who transforms the mundane , lowest World into an abode for God 's essence .	1.00	[PAD]	[SEP]	[PAD]	[CLS]	None
+Like other BBC content of the mid-1990s , it often lampooned the low-budget quality of satellite television available in the UK at the time .	1.00	Like	[PAD]	[PAD]	[CLS]	None
+Like other BBC content of the mid-1990s , it often lampooned the low-budget quality of satellite television available in the UK at the time .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	[CLS]	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Newhan split the season between Triple-A Round Rock , where he hit .308 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+She returned to that Thames River base 9 February 1931 and for the remainder of the decade served as a training ship primarily for the Submarine School at New London and occasionally for NROTC units in the southern New England area .	1.00	[PAD]	[PAD]	[PAD]	[CLS]	None
+She returned to that Thames River base 9 February 1931 and for the remainder of the decade served as a training ship primarily for the Submarine School at New London and occasionally for NROTC units in the southern New England area .	1.00	[PAD]	[PAD]	[PAD]	None	None
+She returned to that Thames River base 9 February 1931 and for the remainder of the decade served as a training ship primarily for the Submarine School at New London and occasionally for NROTC units in the southern New England area .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Sukhum functioned as the capital of the `` Union treaty '' Abkhaz Soviet Socialist Republic associated with the Georgian SSR from 1921 until 1931 , when it became the capital of the Abkhazian Autonomous Soviet Socialist Republic within the Georgian SSR .	1.00	`	.	SSR	None	None
+Sukhum functioned as the capital of the `` Union treaty '' Abkhaz Soviet Socialist Republic associated with the Georgian SSR from 1921 until 1931 , when it became the capital of the Abkhazian Autonomous Soviet Socialist Republic within the Georgian SSR .	1.00	[PAD]	[SEP]	[PAD]	None	None
+The CRZ was organized by the Nepal and Indian members of the Naxalite movement , in a meeting at Siliguri in the Indian State of West Bengal during August 2001 .	1.00	[PAD]	[PAD]	[PAD]	[CLS]	[SEP]
+The Triple-A Baseball National Championship Game was established in 2006 .	1.00	The	[SEP]	.	None	None
+The dialects they speak are similar but have different intonations .	1.00	[PAD]	[SEP]	[PAD]	The	None
+The diocese was originally erected as the Prefecture Apostolic of Hpyeng-yang on 17 March 1927 , and renamed as the Prefecture Apostolic of Peng-yang on 17 March 1929 .	1.00	[PAD]	##py	[PAD]	The	[SEP]
+The diocese was originally erected as the Prefecture Apostolic of Hpyeng-yang on 17 March 1927 , and renamed as the Prefecture Apostolic of Peng-yang on 17 March 1929 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The diocese was originally erected as the Prefecture Apostolic of Hpyeng-yang on 17 March 1927 , and renamed as the Prefecture Apostolic of Peng-yang on 17 March 1929 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The diocese was originally erected as the Prefecture Apostolic of Hpyeng-yang on 17 March 1927 , and renamed as the Prefecture Apostolic of Peng-yang on 17 March 1929 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The diocese was originally erected as the Prefecture Apostolic of Hpyeng-yang on 17 March 1927 , and renamed as the Prefecture Apostolic of Peng-yang on 17 March 1929 .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	The	[SEP]
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+The fuselage had an oval cross-section and housed a water-cooled inverted-V V-12 engine .	1.00	[PAD]	[PAD]	[PAD]	None	None
+There were 143 households out of which 30.1 % had children under the age of 18 living with them , 49.7 % were married couples living together , 11.9 % had a female householder with no husband present , and 36.4 % were non-families .	1.00	which	of	households	There	None
+There were 47,604 households out of which 35.00 % had children under the age of 18 living with them , 56.30 % were married couples living together , 7.50 % had a female householder with no husband present , and 32.50 % were non-families .	1.00	them	of	with	There	None
+There were 6,524 households out of which 35.3 % had children under the age of 18 living with them , 31.7 % were married couples living together , 31.5 % had a female householder with no husband present , and 30.6 % were non-families .	1.00	them	of	with	There	None
+Transferred to Key West , Florida , on 1 June 1941 , `` R-11 '' continued her training ship duties throughout the remainder of her career .	1.00	[CLS]	.	career	None	None
+Transferred to Key West , Florida , on 1 June 1941 , `` R-11 '' continued her training ship duties throughout the remainder of her career .	1.00	[PAD]	[SEP]	[PAD]	None	None
+Why the `` Epilogue '' is missing is unknown .	1.00	Why	.	unknown	None	None
+Why the `` Epilogue '' is missing is unknown .	1.00	[PAD]	[SEP]	[PAD]	None	None
+With the help of Morena , the goddess of the underworld , she has captivated Yaromir .	1.00	##rom	.	##ir	[CLS]	None
+With the help of Morena , the goddess of the underworld , she has captivated Yaromir .	1.00	[PAD]	[SEP]	[PAD]	None	None
+Ever since , the remaining members have been desperate for the United States to rejoin this dreadful group .	1.00	Ever	.	group	None	None
+Ever since , the remaining members have been desperate for the United States to rejoin this dreadful group .	1.00	[PAD]	[SEP]	[PAD]	None	None
+Prime Minister Lee Kuan Yew , Singapore 's leader and one of Asia 's leading statesmen for 30 years , recently announced his intention to retire next year -- though not necessarily to end his influence .	1.00	[PAD]	[PAD]	[PAD]	None	[SEP]
+Ryukichi Imai , Japan 's ambassador to Mexico , agrees that Mexico may be too eager .	1.00	[PAD]	[PAD]	[PAD]	[CLS]	[SEP]
+The basket product , while it has got off to a slow start , is being supported by some big brokerage firms -- another member of Mr. Phelan 's splintered constituency .	1.00	The	to	off	None	None
+They claim to have busted spirits , poltergeists and other spooks in hundreds of houses around the country .	1.00	[PAD]	[PAD]	[PAD]	[CLS]	##po
+They claim to have busted spirits , poltergeists and other spooks in hundreds of houses around the country .	1.00	[PAD]	[PAD]	[PAD]	None	None
+Warner Communications Inc. , which is being acquired by Time Warner , has filed a $ 1 billion breach - of - contract suit against Sony and the two producers .	1.00	[PAD]	[PAD]	[PAD]	[CLS]	None
+`` To allow this massive level of unfettered federal borrowing without prior congressional approval would be irresponsible , '' said Rep. Fortney Stark ( D. , Calif. ) , who has introduced a bill to limit the RTC 's authority to issue debt .	1.00	[PAD]	[PAD]	[PAD]	None	None
+`` To allow this massive level of unfettered federal borrowing without prior congressional approval would be irresponsible , '' said Rep. Fortney Stark ( D. , Calif. ) , who has introduced a bill to limit the RTC 's authority to issue debt .	1.00	[PAD]	[PAD]	[PAD]	None	None
+`` To allow this massive level of unfettered federal borrowing without prior congressional approval would be irresponsible , '' said Rep. Fortney Stark ( D. , Calif. ) , who has introduced a bill to limit the RTC 's authority to issue debt .	1.00	[PAD]	[PAD]	[PAD]	None	None
